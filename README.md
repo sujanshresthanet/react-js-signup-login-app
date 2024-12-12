@@ -42,7 +42,7 @@ Steps to Install and Run the App
 
 1.  **Clone the repository:**
 
-            git clone https://github.com/yourusername/signup-login-app.git
+            git clone https://github.com/sujanshresthanet/react-js-signup-login-app
         
 
 3.  **Navigate to the project folder:**
