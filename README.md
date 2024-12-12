@@ -47,7 +47,7 @@ Steps to Install and Run the App
 
 3.  **Navigate to the project folder:**
 
-            cd signup-login-app
+            cd react-js-signup-login-app
         
 
 5.  **Install dependencies:**
